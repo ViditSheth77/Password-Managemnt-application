@@ -1,0 +1,86 @@
+=============================================Application Started at 2021-05-10 08:57:46.7541982021-05-10 08:57:46.756192 mainFile This is the first launch.
+2021-05-10 08:57:55.719541 genSalt Salt created
+2021-05-10 08:57:55.723529 storeGlobal GPwd stored
+2021-05-10 08:57:56.277028 countAccounts No accounts found on startup
+2021-05-10 08:57:56.279022 countAccounts No accounts found on startup
+2021-05-10 08:57:56.321908 countAccounts No accounts found on startup
+2021-05-10 08:57:56.326895 countAccounts No accounts found on startup
+2021-05-10 08:58:16.780646 encrypt[al] Encrypt password request.
+2021-05-10 08:58:16.781645 countAccounts No accounts found on startup
+2021-05-10 08:58:16.784635 addEntry New account added: Vidit
+2021-05-10 08:58:16.803585 refreshWindow Window has been refreshed.
+2021-05-10 08:58:17.376135 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:17.380126 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:17.443955 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:17.472876 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:17.476866 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:26.766845 checkPassword Bad Global
+2021-05-10 08:58:30.370801 checkPassword Bad Global
+2021-05-10 08:58:31.148751 checkPassword Bad Global
+2021-05-10 08:58:40.591072 decrypt[al] Decrypt password request.
+=============================================Application Started at 2021-05-10 08:58:50.4465572021-05-10 08:58:51.097526 mainFile Data found
+2021-05-10 08:58:51.436619 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:51.440608 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:51.478507 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:51.483495 countAccounts Found 1 account(s) on startup
+2021-05-10 08:58:51.485490 countAccounts Found 1 account(s) on startup
+2021-05-10 08:59:16.435046 encrypt[al] Encrypt password request.
+2021-05-10 08:59:16.438039 countAccounts Found 1 account(s) on startup
+2021-05-10 08:59:16.440033 addEntry New account added: Omkar
+2021-05-10 08:59:16.452001 refreshWindow Window has been refreshed.
+2021-05-10 08:59:16.903307 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:16.906299 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:16.927253 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:16.931233 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:16.933227 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:36.310160 encrypt[al] Encrypt password request.
+2021-05-10 08:59:36.312154 countAccounts Found 2 account(s) on startup
+2021-05-10 08:59:36.315148 addEntry New account added: Kaustubh
+2021-05-10 08:59:36.327116 refreshWindow Window has been refreshed.
+2021-05-10 08:59:36.620332 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:36.622325 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:36.645265 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:36.651249 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:36.653244 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:48.465677 unlockSession This session has been unlocked.
+2021-05-10 08:59:48.468669 refreshWindow Window has been refreshed.
+2021-05-10 08:59:48.754903 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:48.756898 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:48.777842 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:48.781831 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:48.783826 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:53.450248 refreshWindow Window has been refreshed.
+2021-05-10 08:59:53.762413 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:53.764407 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:53.780364 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:53.784355 countAccounts Found 3 account(s) on startup
+2021-05-10 08:59:53.786348 countAccounts Found 3 account(s) on startup
+=============================================Application Started at 2021-05-10 19:47:12.3564902021-05-10 19:47:12.358486 mainFile Data found
+2021-05-10 19:47:12.670651 countAccounts Found 3 account(s) on startup
+2021-05-10 19:47:12.674640 countAccounts Found 3 account(s) on startup
+2021-05-10 19:47:12.697583 countAccounts Found 3 account(s) on startup
+2021-05-10 19:47:12.700570 countAccounts Found 3 account(s) on startup
+2021-05-10 19:47:12.703563 countAccounts Found 3 account(s) on startup
+2021-05-10 19:47:23.875697 checkPassword Bad Global
+2021-05-10 19:47:40.701507 checkPassword Bad Global
+2021-05-10 19:47:42.150145 checkPassword Bad Global
+2021-05-10 19:47:42.706170 checkPassword Bad Global
+2021-05-10 19:47:43.137849 checkPassword Bad Global
+2021-05-10 19:47:51.992637 decrypt[al] Decrypt password request.
+2021-05-10 19:48:16.224118 encrypt[al] Encrypt password request.
+2021-05-10 19:48:16.249051 countAccounts Found 3 account(s) on startup
+2021-05-10 19:48:16.370726 addEntry New account added: Shreyash
+2021-05-10 19:48:16.384202 refreshWindow Window has been refreshed.
+2021-05-10 19:48:16.744749 countAccounts Found 4 account(s) on startup
+2021-05-10 19:48:16.746744 countAccounts Found 4 account(s) on startup
+2021-05-10 19:48:16.776664 countAccounts Found 4 account(s) on startup
+2021-05-10 19:48:16.799603 countAccounts Found 4 account(s) on startup
+2021-05-10 19:48:16.801597 countAccounts Found 4 account(s) on startup
+=============================================Application Started at 2021-05-12 14:42:14.5116762021-05-12 14:42:14.596295 mainFile Data found
+2021-05-12 14:42:15.458425 countAccounts Found 4 account(s) on startup
+2021-05-12 14:42:15.458425 countAccounts Found 4 account(s) on startup
+2021-05-12 14:42:15.511801 countAccounts Found 4 account(s) on startup
+2021-05-12 14:42:15.511801 countAccounts Found 4 account(s) on startup
+2021-05-12 14:42:15.511801 countAccounts Found 4 account(s) on startup
+2021-05-12 15:01:27.924420 checkPassword Bad Global
+2021-05-12 15:01:32.026709 decrypt[al] Decrypt password request.
